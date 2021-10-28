@@ -3,3 +3,11 @@
 
 # Dataset
 [Used Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset) 
+
+# Requirments
+- Packages:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - nltk 

@@ -1,4 +1,4 @@
-# Spam Detetcion AI
+# Spam Detetection Machine Learning
  Small that is able to detect spam SMS via machine learning algorithms.
 
 # Dataset

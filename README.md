@@ -1,13 +1,14 @@
 # Spam Detetcion AI
- Small machine learning script that is able to detect spam SMS/
+ Small that is able to detect spam SMS via machine learning algorithms.
 
 # Dataset
-[Used Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset) 
+[Link to dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset) 
 
-# Requirments
+# Requirements
 - Packages:
   - numpy
   - pandas
   - matplotlib
   - seaborn
-  - nltk 
+  - nltk
+  - sklearn
